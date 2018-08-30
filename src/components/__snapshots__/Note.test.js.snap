@@ -75,6 +75,7 @@ ShallowWrapper {
           Remove Note
 </Button>,
       ],
+      "className": "note",
     },
     "ref": null,
     "rendered": Array [
@@ -312,6 +313,7 @@ ShallowWrapper {
             Remove Note
 </Button>,
         ],
+        "className": "note",
       },
       "ref": null,
       "rendered": Array [

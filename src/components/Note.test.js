@@ -11,7 +11,7 @@ describe("Note", () => {
   it("renders properly", () => {
     expect(note).toMatchSnapshot();
   });
-  it("initializez person and note in `state`", () => {
+  it("initialize person and note in `state`", () => {
     expect(note.state()).toEqual({ person: "", note: "" });
   });
 
